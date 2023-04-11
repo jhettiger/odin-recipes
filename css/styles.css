@@ -1,0 +1,64 @@
+body{
+    background: lightgoldenrodyellow;
+    margin: 0;
+}
+
+header {
+    background: lightgreen;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background: blue
+}
+
+section {
+    float: left;
+    width: 70%;
+    margin-bottom: 100px;
+}
+
+aside {
+    float: right;
+    border-style: dashed;
+    background: orange;
+}
+
+footer{
+    clear: both;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.salmon{
+    height: 300px;
+    width: auto;
+}
+
+.potato-soup {
+    height: 300px;
+    width: auto;
+}
+
+.green-beans {
+    height: 300px;
+    width: auto;
+}
+
+li {
+    text-align: left;
+}
