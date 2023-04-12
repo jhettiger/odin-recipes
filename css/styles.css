@@ -1,5 +1,5 @@
 body{
-    background: lightgoldenrodyellow;
+    background-image: url(../img/food.webp);
     margin: 0;
 }
 
@@ -15,9 +15,8 @@ header {
 }
 
 .container {
-    width: 80%;
+    width: 85%;
     margin: 0 auto;
-    background: blue
 }
 
 section {
@@ -61,4 +60,14 @@ h2 {
 
 li {
     text-align: left;
+}
+
+.foodimg {
+    margin: 0 auto;
+    height: 300px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
 }
