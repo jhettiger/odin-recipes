@@ -29,6 +29,7 @@ aside {
     float: right;
     border-style: dashed;
     background: orange;
+    padding: 20px;
 }
 
 footer{
@@ -36,7 +37,7 @@ footer{
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    background: white;
+    background: #f2c00a;
 }
 
 h2 {
@@ -63,11 +64,23 @@ li {
 }
 
 .foodimg {
-    margin: 0 auto;
+    margin-left: 125px;
     height: 300px;
     width: auto;
 }
 
 h1 {
     text-align: center;
+}
+
+a:hover {
+    color: white;
+}
+
+p {
+    margin-left: 125px;
+}
+
+h3 {
+    color: purple;
 }
