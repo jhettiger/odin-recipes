@@ -44,17 +44,9 @@ h2 {
     text-align: center;
 }
 
-.salmon{
-    height: 300px;
-    width: auto;
-}
-
-.potato-soup {
-    height: 300px;
-    width: auto;
-}
-
-.green-beans {
+.salmon,
+.potato-soup,
+.green-beans{
     height: 300px;
     width: auto;
 }
